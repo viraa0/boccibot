@@ -1,0 +1,9 @@
+node_modules
+*.data.json
+logs
+.node-persist
+_IGNORE_*
+temp
+**.data.json
+**.node-persist**
+**_IGNORE_**
